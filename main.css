@@ -1,0 +1,6 @@
+.container {
+  flex-wrap: wrap;
+}
+.row {
+  height: 390px;
+}
